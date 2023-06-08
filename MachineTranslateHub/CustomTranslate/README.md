@@ -42,9 +42,3 @@ To download the dataset used in this project, [click here](https://www.example.c
 
 ## Colab Notebook
 To access the Colab Notebook version of this project, [click here](https://colab.research.google.com/drive/16qg0KLPS9czU-UZovZvUDoL2MeJlC5g6).
-
----
-
-```javascript
-Make sure to replace `your-username` and `your-repo` with your GitHub username and repository name respectively. Also, update the Python and Jupyter Notebook versions if necessary.
-```
