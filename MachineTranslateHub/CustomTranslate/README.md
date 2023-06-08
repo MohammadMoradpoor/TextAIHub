@@ -1,4 +1,4 @@
-# Spanish to English Translator
+# CustomTranslate
 
 This is a Python-based translator system that translates text from Spanish to English using an attention layer in the network.
 
