@@ -2,6 +2,9 @@
 
 This repository contains various projects related to natural language processing and text analysis.
 
+## Text Mining
+![](Process-of-TextMining.png)
+
 ## Projects
 
 ### MachineTranslateHub
