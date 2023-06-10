@@ -36,7 +36,7 @@ This repository contains various projects related to natural language processing
 
 To get started with the projects in this repository, you can clone the repository locally by running the following command:
 ```
-git clone https://github.com/username/TextAIHub.git
+git clone https://github.com/MohamadsalehMoradpoor/TextAIHub.git
 ```
 
 Make sure you have Git installed on your system. After cloning the repository, you can navigate to each project's directory and explore the code.
