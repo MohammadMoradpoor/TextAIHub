@@ -7,13 +7,13 @@ This project is about sentiment analysis for movie comments and also includes a 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/project.git
+   git clone https://github.com/MohamadsalehMoradpoor/TextAIHub.git
    ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd project
+    cd Sentix
     ```
 
 3. Install the required dependencies:
@@ -22,23 +22,19 @@ This project is about sentiment analysis for movie comments and also includes a 
     pip install -r requirements.txt
     ```
 
-## Usage
-
-Run the sentiment analysis script:
-
-Open the Streamlit app:
-
-## File Structure
-
-. `entiment_analysis.py`: Python script for sentiment analysis of movie comments.
-
-. `streamlit_app.py`: Streamlit app for sentiment visualization.
-
-. `requirements.txt`: List of required Python packages.
-
 ## Streamlit App Demo
 
 ![streamlit](animation_st.gif)
+
+## Usage
+
+- Open the Jupyter Notebook file named `SentixMultiChannel.ipynb` or `Sentix001.ipynb` in your Jupyter Notebook environment.
+
+- Run this script:
+
+    ```bash
+    streamlit run SentixMultiChannel.py
+    ```
 
 ## Contributing
 
