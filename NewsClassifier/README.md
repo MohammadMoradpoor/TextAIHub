@@ -1,18 +1,28 @@
-## NewsClassifier Project
+# NewsClassifier Project
 
 This repository contains a project for news classification in the Persian language. The goal of the project is to classify news articles into various categories based on predefined labels.
 
-### Installation and Setup
+### Installation
 
-To use this project, you need to follow these steps:
+1. Clone this repository to your local machine using the following command:
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Prepare the dataset for training and evaluation.
-4. Run the training script to train the classification model.
-5. Evaluate the model's performance on the test dataset.
+   ```shell
+   git clone https://github.com/MohamadsalehMoradpoor/TextAIHub.git
+   ```
 
-### Usage
+2. Navigate to the project directory:
+
+    ```shell
+    cd NewsClassifier
+    ```
+
+3. Install the required dependencies:
+
+    ```shell
+    pip install -r requirements.txt
+    ```
+
+## Usage
 
 To classify news articles, you can use the trained model as follows:
 
@@ -27,13 +37,13 @@ To classify news articles, you can use the trained model as follows:
 
 ![App Screenshot](animation.gif)
 
-This repository contains a desktop application for news classification in the Persian language. The application is built using the tkinter library in Python, providing a user-friendly interface for classifying news articles into various categories based on predefined labels.
+The application is built using the tkinter library in Python, providing a user-friendly interface for classifying news articles into various categories based on predefined labels.
 
 ### Installation and Setup
 
 To use this desktop application, you need to follow these steps:
 
-1. Download the executable file (`NewsClassifier.exe`) from the [Releases](https://github.com/MohamadsalehMoradpoor/TextAIHub/tree/master/NewsClassifier/NewsClassifier.exe) page.
+1. Download the executable file (`NewsClassifier.exe`) from the [Releases](https://github.com/MohamadsalehMoradpoor/TextAIHub/tree/master/NewsClassifier/) page.
 2. Run the executable file to launch the application.
 
 ### Usage
