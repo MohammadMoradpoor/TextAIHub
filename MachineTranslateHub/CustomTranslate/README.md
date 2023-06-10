@@ -18,13 +18,15 @@ Make sure you have the following software installed:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/username/TextAIHub.git
+   git clone https://github.com/MohamadsalehMoradpoor/TextAIHub.git
    ```
+
 2. Navigate to the project directory:
 
     ```shell
     cd MachineTranslateHub/CustomTranslate
     ```
+
 3. Install the required dependencies:
 
     ```shell
@@ -38,7 +40,9 @@ Make sure you have the following software installed:
 2. Follow the instructions provided in the notebook to run the translator system and translate Spanish text to English using the attention layer.
 
 ## Dataset
-To download the dataset used in this project, [click here](https://www.example.com/dataset).
+
+To download the dataset used in this project, [click here](http://www.manythings.org/anki/).
 
 ## Colab Notebook
+
 To access the Colab Notebook version of this project, [click here](https://colab.research.google.com/drive/16qg0KLPS9czU-UZovZvUDoL2MeJlC5g6).

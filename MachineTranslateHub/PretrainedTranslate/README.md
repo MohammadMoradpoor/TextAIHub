@@ -10,13 +10,26 @@ The translation system uses the `M2M100ForConditionalGeneration` model and `M2M1
 
 To use this repository, you need to install the model and tokenizer. You can use the following commands:
 
-```bash
-pip install torch
-pip install transformers
-pip install sentencepiece
-```
+1. Clone this repository to your local machine using the following command:
+
+   ```shell
+   git clone https://github.com/MohamadsalehMoradpoor/TextAIHub.git
+   ```
+
+2. Navigate to the project directory:
+
+    ```shell
+    cd MachineTranslateHub/PretrainedTranslate
+    ```
+
+3. Install the required dependencies:
+
+    ```shell
+    pip install -r requirements.txt
+    ```
 
 ## Usage
+
 Once you have installed the model and tokenizer, you can use the translation system. Below is an example code snippet for utilizing this system:
 ``` python
 from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
@@ -51,14 +64,15 @@ You can access the [Colab notebook file](https://colab.research.google.com/drive
 
 This repository contains a simple translation app written in Python using Streamlit. The app allows users to enter a text and select a language for translation. The translated text is then displayed to the user.
 
-## Usage
+### Usage
+
 1. Run the app.py file:
 
-```bash
-streamlit run app.py
-```
+    ```bash
+    streamlit run streamlit_app.py
+    ```
 
-2. Open your web browser and go to http://localhost:8501.
+2. Open your web browser and go to `http://localhost:8501`.
 
 3. In the app, enter the text you want to translate in the provided input box.
 
@@ -71,6 +85,7 @@ streamlit run app.py
 7. You can repeat the process to translate more texts or change the target language as needed.
 
 ## Contribution
+
 If you are interested in contributing to the PretrainedTranslate repository, you can submit a Pull Request or report any relevant issues in the repository's issue tracker.
 
 ``` vbnet
