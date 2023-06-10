@@ -24,6 +24,10 @@ To use TweetClustify, follow these steps:
    pip install -r requirements.txt
    ```
 
+## Usage
+
+- Open the Jupyter Notebook file named `TweetClustering.ipynb` in your Jupyter Notebook environment.
+
 ## Contributing
 
 If you'd like to contribute to the TweetClustify project, please follow these guidelines:

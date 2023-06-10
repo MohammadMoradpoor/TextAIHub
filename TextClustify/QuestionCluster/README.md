@@ -6,21 +6,27 @@ QuestionCluster is a project that focuses on question clustering.
 
 To use the QuestionCluster library, you need to follow these steps:
 
-1. Clone the repository:
+1. Clone this repository to your local machine using the following command:
 
-   ```bash
-   git clone https://github.com/your-username/QuestionCluster.git
+   ```shell
+   git clone https://github.com/MohamadsalehMoradpoor/TextAIHub.git
    ```
 
-2. Install the required dependencies:
+2. Navigate to the project directory:
 
-    ```bash
+    ```shell
+    cd TextClustify/QuestionCluster
+    ```
+
+3. Install the required dependencies:
+
+    ```shell
     pip install -r requirements.txt
     ```
 
 ## Usage
 
-The following steps explain how to use the QuestionCluster library:
+- Open the Jupyter Notebook file named `QuestionClustering.ipynb` in your Jupyter Notebook environment.
 
 ## Contributing
 
