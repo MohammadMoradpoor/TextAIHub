@@ -1,6 +1,6 @@
 # PretrainedTranslate
 
-This repository contains a translation system that utilizes the Pretrained M2M100 model by Facebook.
+This repository contains a translation system that utilizes the pre-trained M2M100 model by Facebook.
 
 ## Model and Tokenizer
 
